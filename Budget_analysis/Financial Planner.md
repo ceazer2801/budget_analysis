@@ -5,7 +5,9 @@ Summarize the transaction data from the budget analysis and include images for e
 There is a large distribution of expenses in the Transfer category.  </br>
 There is also a large number of transactions in the Food and Drink category </br>
 
-<img src=./Images/Expenses_per_cat.png height="30px" align="top"> ![Number_trnx_bar.png](./Images/Number_trnx_bar.png)
+![Expenses_per_cat.png](./Images/Expenses_per_cat.png)![Number_trnx_bar.png](./Images/Number_trnx_bar.png)
+
+### Total Expenses per Category Pie Chart
 
 ![Budget_pie.png](./Images/Budget_pie.png) 
 
